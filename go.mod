@@ -18,6 +18,9 @@ require (
 	gotest.tools/v3 v3.5.2
 )
 
+//replace github.com/zmap/dns v1.1.68 => github.com/apoc-dev/dns v0.0.0-20250911092008-cc08263297ce
+replace github.com/zmap/dns => ../dns
+
 require (
 	github.com/asergeyev/nradix v0.0.0-20220715161825-e451993e425c // indirect
 	github.com/beorn7/perks v1.0.1 // indirect

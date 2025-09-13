@@ -62,8 +62,6 @@ github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
 github.com/weppos/publicsuffix-go v0.40.3-0.20250311103038-7794c8c0723b h1:PFOWooJRLwIuZk9i3ihzKzZffPrAVyOCzPInvLbn140=
 github.com/weppos/publicsuffix-go v0.40.3-0.20250311103038-7794c8c0723b/go.mod h1:EACzvcFHnxqmDapI/oqMjtpXz+mtjNzJe7r1zhRczZ0=
-github.com/zmap/dns v1.1.68 h1:PJQOULamuChCc3Lg73RVrg47+bWB4Pt1mgfwPsS/Vak=
-github.com/zmap/dns v1.1.68/go.mod h1:5O/AzpxsukLFIo1L0Xpr8Gvtf3yq1johDaddPW8T3Rk=
 github.com/zmap/go-dns-root-anchors v0.0.0-20250415191259-6d65fb878756 h1:yeprVDswfVwnP3uCPm1h1vUZYUOMk7Ue56//8ttmUwA=
 github.com/zmap/go-dns-root-anchors v0.0.0-20250415191259-6d65fb878756/go.mod h1:W5CEzaf+B3Pg1hzUQotwQ2EBg7jB49DkmKuiNuWPO80=
 github.com/zmap/go-iptree v0.0.0-20210731043055-d4e632617837 h1:DjHnADS2r2zynZ3WkCFAQ+PNYngMSNceRROi0pO6c3M=
