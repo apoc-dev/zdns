@@ -1,3 +1,5 @@
+github.com/apoc-dev/dns v0.0.0-20250915110619-f3c57a149395 h1:Bj6TGnusj/UwIQYQCZPpKZ5DmdOCs0GpM+VWhePh4P4=
+github.com/apoc-dev/dns v0.0.0-20250915110619-f3c57a149395/go.mod h1:5O/AzpxsukLFIo1L0Xpr8Gvtf3yq1johDaddPW8T3Rk=
 github.com/asergeyev/nradix v0.0.0-20170505151046-3872ab85bb56/go.mod h1:8BhOLuqtSuT5NZtZMwfvEibi09RO3u79uqfHZzfDTR4=
 github.com/asergeyev/nradix v0.0.0-20220715161825-e451993e425c h1:cN6WRmhJkh/u5bvf/XXjoqcHxljVKIz3Nt7q2dVJySo=
 github.com/asergeyev/nradix v0.0.0-20220715161825-e451993e425c/go.mod h1:8BhOLuqtSuT5NZtZMwfvEibi09RO3u79uqfHZzfDTR4=
