@@ -1,4 +1,4 @@
-module github.com/zmap/zdns/v2
+module github.com/apoc-dev/zdns
 
 go 1.24.0
 
